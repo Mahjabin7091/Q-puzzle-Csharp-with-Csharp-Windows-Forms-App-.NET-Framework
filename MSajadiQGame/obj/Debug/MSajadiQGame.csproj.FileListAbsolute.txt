@@ -1,0 +1,12 @@
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\bin\Debug\MSajadiQGame.exe.config
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\bin\Debug\MSajadiQGame.exe
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\bin\Debug\MSajadiQGame.pdb
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.Form1.resources
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.Properties.Resources.resources
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.csproj.GenerateResource.cache
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.csproj.CoreCompileInputs.cache
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.exe
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.pdb
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.FirstPage.resources
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.csprojAssemblyReference.cache
+C:\Users\Mahjabin\Desktop\Semester3\PROG2370_Game\MSajadiAssignment2_QGame\MSajadiQGame\MSajadiQGame\obj\Debug\MSajadiQGame.PlayForm.resources
